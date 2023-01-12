@@ -29,9 +29,10 @@ I am a first-year student at Columbia University majoring in Computer Science!
 
 ---
 
-### :hammer_and_wrench: Technical Skills and Tools :
+### :hammer_and_wrench:  Technical Skills and Tools :
 
 <div>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R (programming language)" alt="R (programming language)" width="50" height="50"/>&nbsp;
   <img src="https://i.stack.imgur.com/AarYf.png" title="LaTeX" **alt="LaTeX" width="50" height="50"/>
@@ -40,11 +41,11 @@ I am a first-year student at Columbia University majoring in Computer Science!
 </div>   
 
 <br />
-Learning: Python, C++
+Currently learning: Git, Javascript, HTML/CSS
 
 ---
 
-### ⭐ My Stats
+### ⭐  My Stats
 
 This is my first year on Github, so I am hoping to improve these :D
 
