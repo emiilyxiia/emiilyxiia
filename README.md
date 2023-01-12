@@ -49,6 +49,3 @@ Currently learning: Git, Javascript, HTML/CSS
 This is my first year on Github, so I am hoping to improve these :D
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emiilyxiia&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiilyxiia)
