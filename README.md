@@ -19,11 +19,11 @@ I am a first-year student at Columbia University majoring in Computer Science!
 - 🖥️ My newfound passion for designing applications, programming and problem solving has led me to study CS. Although I began with a more humanities-oriented background, I hope to integrate my artistic passions with these technical skills through creative computing and user/website design.
 - 📖 Currently, I am taking Data Structures and Discrete Mathematics, with a plan to take Advanced Programming in C and C++ and Competitive Programming in sophomore year.
 - 🍀 2023 Goals
-- [X] Create a Github Profile using Markdown (learn HTML on the way)
-- [ ] Build a personal website
-- [ ] Create a chrome extension
+- [X] Create a Github Profile using Markdown
+- [ ] Build a personal website (ongoing)
+- [ ] Create a chrome extension (ongoing)
 - [ ] Code a small game in Java
-- [ ] Contribute to an Open Source Projects!
+- [ ] Contribute to Open Source Projects!
 - 🎨 In my free time, I love to paint and create designs.
 - 📬 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-EmilyXia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilyxia-/)
 
