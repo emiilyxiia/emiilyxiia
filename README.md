@@ -41,7 +41,7 @@ I am a first-year student at Columbia University majoring in Computer Science!
 </div>   
 
 <br />
-Currently learning: Git, Javascript, HTML/CSS
+Currently learning: Javascript, HTML/CSS, React
 
 ---
 
