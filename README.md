@@ -12,13 +12,13 @@
 
 ### 🌆  About Me :
 
-I am a second-year student at Columbia University majoring in Computer Science!
+I am a student at Columbia University majoring in Computer Science!
 
 <img src="https://github.com/emiilyxiia/emiilyxiia/blob/main/Screen%20Shot%202023-01-10%20at%208.08.40%20PM.png" alt="banner that says Hello World! Emily Xia" width="400"> 
 
-- 🖥️ My passion for designing applications, programming and problem solving has led me to study CS. Although I began with a more humanities-oriented background, I hope to integrate my artistic passions with these technical skills through creative computing and user/website design. Hence, I am working as an associate software engineer at the Spectator Publishing Company, parent company of Columbia Daily Spectator, CULPA.io, theShaft, and many more webapps.
+- 🖥️ My passion for designing applications, programming and problem solving has led me to study CS. Although I began with a more humanities-oriented background, I hope to integrate my artistic passions with these technical skills through creative computing and user/website design. Hence, I am working as a software engineer at the Spectator Publishing Company, parent company of Columbia Daily Spectator, CULPA.io, theShaft, and many more webapps.
 - 📖 Currently, I am taking Data Structures and Discrete Mathematics, with a plan to take Advanced Programming in C and C++ and Competitive Programming in sophomore year.
-- 🍀 2023 Goals
+- 🍀 2024 Goals
 - [X] Create a Github Profile using Markdown
 - [X] Build a personal website
 - [X] Attend a Devfest
@@ -42,14 +42,11 @@ I am a second-year student at Columbia University majoring in Computer Science!
 </div>   
 
 <br />
-Currently learning: Javascript, React.js & MongoDB @ Spectator, Java (Data Structures), Python (Discrete Mathematics)
+Currently learning: Javascript, React.js, SQL
 
 ---
 
 ### ⭐  My Stats
 
-I am still a newbie, so I am hoping to improve these :D
-
 [![emiilyxiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiilyxiia&theme=dark&background=000000)](https://github.com/emiilyxiia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiilyxiia&theme=dark&background=000000)](https://github.com/emiilyxiia/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emiilyxiia&theme=dark&background=000000)](https://git.io/streak-stats)
