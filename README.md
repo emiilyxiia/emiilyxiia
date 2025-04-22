@@ -46,6 +46,4 @@ Currently learning: Javascript, React.js, SQL
 ---
 
 ### ⭐  My Stats
-
-[![emiilyxiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiilyxiia&theme=dark&background=000000)](https://github.com/emiilyxiia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiilyxiia&theme=dark&background=000000)](https://github.com/emiilyxiia/github-readme-stats)
