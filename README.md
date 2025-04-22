@@ -16,9 +16,8 @@ I am a student at Columbia University majoring in Computer Science!
 
 <img src="https://github.com/emiilyxiia/emiilyxiia/blob/main/Screen%20Shot%202023-01-10%20at%208.08.40%20PM.png" alt="banner that says Hello World! Emily Xia" width="400"> 
 
-- 🖥️ My passion for designing applications, programming and problem solving has led me to study CS. Although I began with a more humanities-oriented background, I hope to integrate my artistic passions with these technical skills through creative computing and user/website design. Hence, I am working as a software engineer at the Spectator Publishing Company, parent company of Columbia Daily Spectator, CULPA.io, theShaft, and many more webapps.
-- 📖 Currently, I am taking Data Structures and Discrete Mathematics, with a plan to take Advanced Programming in C and C++ and Competitive Programming in sophomore year.
-- 🍀 2024 Goals
+- 🖥️ My passion for designing applications, programming and problem solving has led me to study CS. Although I began with a more humanities-oriented background, I hope to integrate my artistic passions with these technical skills through creative computing and user/website design.
+- 🍀 2025 Goals
 - [X] Create a Github Profile using Markdown
 - [X] Build a personal website
 - [X] Attend a Devfest
